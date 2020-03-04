@@ -1,0 +1,43 @@
+html{
+    background-color: grey;
+}
+
+.feu{
+    background-color: black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 5px;
+    width: 50px;
+    height: 180px;
+}
+
+
+
+button{
+    width:35px;
+	height:35px;
+	background:#cc0000;
+	font:bold 13px Arial;
+	border-radius:50%;
+	border:none;
+    color:#fff;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+button:active{
+    background: #ccc000;
+}
+
+.circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: black 1px solid;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
